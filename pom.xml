@@ -15,4 +15,19 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-</project>
+
+    <contributors>
+    <contributor>
+      <name>Ralph Nelson</name>
+      <email>ralph.nelson@lhhf.org</email>
+      <url>http://www.linkedin.com/in/ralphnelson/</url>
+      <organization>InfoZen</organization>
+      <organizationUrl>http://infozen.com</organizationUrl>
+      <roles>
+        <role>job applicant</role>
+      </roles>
+      <timezone>America/New_York</timezone>
+    </contributor>
+  </contributors>
+  
+  </project>
