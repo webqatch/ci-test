@@ -1,0 +1,2 @@
+# Ignore folder created after the build
+target/
